@@ -4,7 +4,7 @@
 
 This project is a clone of the Dr. Lal PathLabs website, built entirely using HTML and CSS. It replicates the design and layout of the original website, showcasing my skills in web design and front-end development.
 
-## [Live Demo]()
+## [Live Demo](https://avantikasingh2110.github.io/Dr.-Lal-PathLabs-Clone/)
 
 ## ✨ Features
 - **Responsive Design:** The layout adjusts to different screen sizes for a seamless user experience.
